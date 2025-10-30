@@ -45,7 +45,7 @@ Designed using **EasyEDA**, the board supports development using both **Arduino*
 
 ## 🧰 Tools & Environment
 - **Design Software:** EasyEDA  
-- **Firmware Development:** Arduino IDE / ESP-IDF  
+- **Firmware Development:** Visual Studio Code With PlatformIO  
 - **Microcontroller:** ESP32-WROOM-32  
 
 ---
@@ -77,14 +77,7 @@ You can download the Gerber files for PCB manufacturing here:
 
 ## 🧑‍💻 Author
 **Kavindu Chamath**  
-Designed and tested using EasyEDA  
-Date: *2025-10-30*
-
----
-
-## 🪪 License
-This project is released under the **MIT License**.  
-You are free to use, modify, and distribute this design with proper credit.
+Designed using EasyEDA  
 
 ---
 
