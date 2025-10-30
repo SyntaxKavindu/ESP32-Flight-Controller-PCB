@@ -10,7 +10,7 @@ Designed using **EasyEDA**, the board supports development using both **Arduino*
 ## ⚙️ Key Features
 - **Microcontroller:** ESP32-WROOM-32 (dual-core, Wi-Fi + Bluetooth)
 - **USB-C Interface:** Integrated USB Type-C for power and programming
-- **USB-to-UART Bridge:** CP2102 / CH340 serial interface
+- **USB-to-UART Bridge:** CP2102N
 - **Sensors:**
   - **9-DOF IMU** (accelerometer, gyroscope, magnetometer)
   - **Barometer Sensor** for altitude measurement
