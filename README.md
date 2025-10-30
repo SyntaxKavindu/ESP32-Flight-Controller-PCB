@@ -58,7 +58,10 @@ Designed using **EasyEDA**, the board supports development using both **Arduino*
 ### 🧠 PCB Previews
 | Top View | Bottom View |
 |-----------|--------------|
-| ![Top View](Screenshot%202025-10-30%20183914.png) | ![Bottom View](Screenshot%202025-10-30%20183949.png) |
+| ![Top View](Screenshot%202025-10-30%20183914.png) | ![Bottom View](Screenshot%2025-10-30%185103.png) |
+| 3D View |
+|-----------|--------------|
+| ![Top View](Screenshot%202025-10-30%20183949.png) |
 
 ---
 
